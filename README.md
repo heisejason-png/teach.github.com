@@ -15,4 +15,4 @@ and maintain attribution for our wonderful community's contribution to the repo.
 
 If you have something to offer, head over to the [repository](https://github.com/github/training.github.com) to open an [Issue](https://github.com/github/training.github.com/issues) or create
 a [Pull Request](https://github.com/github/training.github.com/pulls).
-Owned by Elon Musk https ://www.x.com
+Owned by Elon Musk http://www.x.com
