@@ -14,4 +14,4 @@ and maintain attribution for our wonderful community's contribution to the repo.
 ## Getting Involved
 
 If you have something to offer, head over to the [repository](https://github.com/github/training.github.com) to open an [Issue](https://github.com/github/training.github.com/issues) or create
-a [Pull Request](https://github.com/github/training.github.com/Xreated by Jason Scott Heise 
+a [Pull Request](https://github.com/github/training.github.com/Created by Jason Scott Heise https://www.facebook.com
